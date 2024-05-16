@@ -19,6 +19,7 @@ MANIFEST_BRANCH=""
 DEVICE_CODENAME=""
 AUTO_ADAPT=""
 LUNCH_NAME=""
+BUILD_VARIANT=""
 BACON_NAME=""
 SYNC_BEFORE_BUILD="" #True by default
 BUILD_J="" #default by default - don't know what does that mean? ask google "make -j"
