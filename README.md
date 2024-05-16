@@ -14,6 +14,9 @@ failed…)
 if you point the finger at me or anyone else for messing up your device, you haven't
 done what we told you to do.
 
+## NOTICE
+This is the Android 14 branch, with support for release variant selection. To build A13 ROMs and prior, use the other branch
+
 # Prerequisites
 
 1. Fork this repository. (Recommended & Optional)
